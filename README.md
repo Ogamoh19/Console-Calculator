@@ -23,3 +23,13 @@
    * LCD( of the two number entered by the user)
    * Exit option(to terminate the program).
 
+ ###### Project Plan
+ 
+   * Analysis
+	 * Algorithm
+	 * Coding
+	 * Testing
+	 * Documentation
+
+
+
