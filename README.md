@@ -37,7 +37,7 @@
 
  ###### Info
  
-  >The ExpressionCalculator 
+  >The ExpressionCalculator class has alternative method 
     
     
 
