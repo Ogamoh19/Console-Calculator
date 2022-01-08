@@ -36,5 +36,5 @@
    ![Picture1](https://user-images.githubusercontent.com/96871476/148644323-e092f774-afc4-43c4-b984-82a345bb3cfc.png)
 
     
-    >The ExpressionaCalculator class has alternative method which retruns true if complication of the sourse code is successful,This function is used to validate    
-     the variables name in the Calculator class.
+    >The ExpressionaCalculator class has alternative method which retruns true if complication of the sourse code is successful,   
+     This function is used to validate the variables name in the Calculator class.
