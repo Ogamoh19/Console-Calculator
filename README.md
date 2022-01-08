@@ -1,5 +1,7 @@
 # Console-Calculator
 
+![anoushka-p-f1YfrZ1o2r8-unsplash](https://user-images.githubusercontent.com/96871476/148642998-aee3edda-51dc-49ad-8f07-5e9bbb6c8574.jpg)
+
 >A command line calculator which supports mathematical expression with scientific functions is very useful for most developers.Most of the time, I do not feel comfortable with the calculator available with Windows. I needed a calculator which will not restrict writing expressions.
 
 >Thus you can get the values of all the variables used in the previous calculations.   
