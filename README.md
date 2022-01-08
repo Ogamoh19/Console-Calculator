@@ -4,3 +4,6 @@
 
 >Thus you can get the values of all the variables used in the previous calculations.   
 
+###### Expected Output
+
+- Should display all the option this new designed calculated upon.
