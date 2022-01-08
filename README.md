@@ -41,7 +41,9 @@
   >This fuction is use to validate the variable name in the Calculator class.
     
     
-
+  ###### Conclusion 
+  
+  -Our project is only a humble venture to satisfy the needs to manage their project work. Several user friendly coding have also adopted. This package shall prove to be a powerful package in satisfy all requirements of the user. The objective of software planning is to provide a frame work that enable the manager to make reasonable estimate made within a limited time frame at the beginning of the software project and should be update regularly as the project regularly. 
 
   
   
