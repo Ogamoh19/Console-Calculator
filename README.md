@@ -37,7 +37,7 @@
 
  ###### Info
  
-  >The ExpressionCalculator class has alternative method 
+  >The ExpressionCalculator class has alternative method which returns true if compilationof the source code
     
     
 
