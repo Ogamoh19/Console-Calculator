@@ -7,3 +7,17 @@
 ###### Expected Output
 
 - Should display all the option this new designed calculated upon.
+- Must calculate mathematical function and displayed the output based on that functions likez:
+   * Adding,  Subtracting,  Multiplication, Division
+   * Power, Square, Cube, Square root
+   * Round, Ceiling, Floor, Main Value, Max Value
+   * Trigonometric functions such as sin, Cos, asin, acos,atan
+   * Exponential function
+   * alindrome(it must accept at least three digit number as it must ask the number of digit to be entered and then to be then must be check whether the given       number is prime or not
+   * Armstrong number(must check whether the entered number is Armstrong  or not.
+   * Prime number(must calculate whether the number is prime or not
+   * Average(first take the input the number of entries expected and then calculate the average),
+   * GCD( of the two number entered by the user)
+   * LCD( of the two number entered by the user)
+   * Exit option(to terminate the program).
+
