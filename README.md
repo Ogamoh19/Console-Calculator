@@ -37,7 +37,8 @@
 
  ###### Info
  
-  >The ExpressionCalculator class has alternative method which returns true if compilationof the source code
+  >The ExpressionCalculator class has alternative method which returns true if compilation of the source code is successful,
+  >This fuction is use to validate the variable name in the Calculator class.
     
     
 
